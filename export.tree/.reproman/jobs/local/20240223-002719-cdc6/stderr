@@ -1,9 +1,0 @@
-Warning: Permanently added 'c114-034' (ECDSA) to the list of known hosts.
-WARNING (02/25/24 13:29:27): LAUNCHER_WORKDIR variable not set. Using current directory.
-using /tmp/launcher.6130436.hostlist.OJ6yNT1z to get hosts
-starting job on c114-034
-starting job on c114-041
-starting job on c114-042
-starting job on c114-113
-starting job on c114-114
-Terminated
